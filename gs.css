@@ -58,7 +58,7 @@ table,td,th{
     color: rgb(247, 130, 20);
     text-align: center;
     padding: 2em;
-    margin: 3px;
+    margin: 1px;
     
 }
 tr:nth-child(odd){
