@@ -70,3 +70,10 @@ table,td,th{
 tr:nth-child(odd){
 background-color: rgb(52, 20, 232);
 }
+
+.JANE:hover, .ANGELA:hover, .SAPHIR:hover, .ELLA:hover {
+   
+    text-shadow: 2px 3px 8px #1818de;  
+    border-style: 1px solid;
+    
+}
