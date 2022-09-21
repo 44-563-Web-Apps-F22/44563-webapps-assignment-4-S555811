@@ -1,0 +1,55 @@
+.speech {
+    color:black;
+    font-size: medium;
+    font-style:italic;
+
+}
+.song{
+    color:black;
+    font-size: medium;
+    font-style:italic;
+
+} 
+.direction{
+
+    background-color: rgb(192, 192, 232);
+    font-size: 20px;
+    font-family: 'Times New Roman', serif,Times;
+
+} 
+.direction:hover {
+    background-color: aqua;
+    color: blueviolet;}
+
+
+
+.CHORUS{
+    color:black;
+ font-size: medium;
+ font-style:italic
+
+}
+
+.LUDWIG{
+    color:black;
+ font-size: large;
+ font-style:italic
+
+}
+ 
+color:black;
+ font-size: large;
+ font-style:italic
+
+.LISA{
+    color:black;
+    font-size: large;
+    font-style:italic
+}
+
+.JULIA{
+    color:black;
+ font-size: large;
+ font-style:italic
+
+}
