@@ -54,10 +54,10 @@
 }
 
 table,td,th{
-    border: solid 2px;
+    border: solid 1px;
     color: rgb(247, 130, 20);
     text-align: center;
-    padding: 2em;
+    padding: 1em;
     margin: 1px;
     
 }
