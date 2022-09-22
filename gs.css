@@ -24,6 +24,12 @@
     color: blueviolet;}
 
 
+    .name {
+        background-color: aqua;
+        color: rgb(17, 175, 162);
+        font-style:italic;
+        text-indent: 70px;}
+
 
 .CHORUS{
     color:black;
